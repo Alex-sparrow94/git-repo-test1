@@ -1,1 +1,2 @@
 print("me doing my homework1")
+print("it's too hard")
