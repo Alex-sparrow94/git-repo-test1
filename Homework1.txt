@@ -1,2 +1,2 @@
 print("me doing my homework1")
-print("first homework is not hard")
+print("first homework may be hard")
